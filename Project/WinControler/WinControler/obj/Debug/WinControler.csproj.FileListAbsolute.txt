@@ -1,0 +1,8 @@
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\bin\Debug\WinControler.dll
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\bin\Debug\WinControler.pdb
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\obj\Debug\Hu.WinControler.Forms.MainConfigForm.resources
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\obj\Debug\WinControler.dll
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\WinControler\obj\Debug\WinControler.pdb

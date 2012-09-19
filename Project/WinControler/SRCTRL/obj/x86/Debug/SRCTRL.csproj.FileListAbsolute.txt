@@ -1,0 +1,17 @@
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\SRCTRL.Properties.Resources.resources
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\bin\Debug\SRCTRL.exe
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\bin\Debug\SRCTRL.pdb
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\SRCTRL.exe
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\SRCTRL.pdb
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\bin\Debug\WinControler.dll
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\bin\Debug\System.Data.SQLite.dll
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\bin\Debug\WinControler.pdb
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\SRCTRL.GridLineForm.resources
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\SRCTRL.frmMain.resources
+F:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\SRCTRL.exe
+F:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\SRCTRL\obj\x86\Debug\SRCTRL.pdb

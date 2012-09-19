@@ -1,0 +1,12 @@
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\bin\Debug\Configuration.exe
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\bin\Debug\Configuration.pdb
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\bin\Debug\WinControler.dll
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\bin\Debug\System.Data.SQLite.dll
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\bin\Debug\Win32.dll
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\bin\Debug\WinControler.pdb
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\obj\x86\Debug\Configuration.Properties.Resources.resources
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\obj\x86\Debug\Configuration.exe
+E:\资料\编程\VSProjects\Project\SoundControler\Project\WinControler\Configuration\obj\x86\Debug\Configuration.pdb

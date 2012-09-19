@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="代表一个程序配置项">
+    <Position X="2.531" Y="12.479" Height="0.438" Width="1.471" />
+  </Comment>
+  <Comment CommentText="代表一个程序功能">
+    <Position X="0.5" Y="11.292" Height="0.448" Width="1.252" />
+  </Comment>
+  <Comment CommentText="代表一个自定义功能">
+    <Position X="4.833" Y="10.24" Height="0.552" Width="1.221" />
+  </Comment>
+  <Comment CommentText="代表一个命令行命令">
+    <Position X="6.875" Y="11.365" Height="0.406" Width="1.325" />
+  </Comment>
+  <Comment CommentText="代表一条语音命令">
+    <Position X="8.583" Y="11.188" Height="0.448" Width="1.44" />
+  </Comment>
+  <Comment CommentText="工具类，供外部程序集调用">
+    <Position X="10.427" Y="11.063" Height="0.51" Width="1.481" />
+  </Comment>
+  <Comment CommentText="数据控制类">
+    <Position X="10.854" Y="6.448" Height="0.29" Width="1.179" />
+  </Comment>
+  <Comment CommentText="抽象控制器">
+    <Position X="0.677" Y="0.969" Height="0.396" Width="1.138" />
+  </Comment>
+  <Comment CommentText="应用程序控制器，控制程序的启动及启动程序功能">
+    <Position X="0.833" Y="5.865" Height="0.448" Width="1.71" />
+  </Comment>
+  <Comment CommentText="自定义功能控制器">
+    <Position X="3.562" Y="5.49" Height="0.365" Width="1.304" />
+  </Comment>
+  <Comment CommentText="命令行功能控制器">
+    <Position X="5.365" Y="4.333" Height="0.427" Width="1.315" />
+  </Comment>
+  <Comment CommentText="窗口控制器">
+    <Position X="7.188" Y="4.865" Height="0.51" Width="1.294" />
+  </Comment>
+  <Comment CommentText="整体控制器，通过组合方式控制各功能控制器，是程序集中控制器对外的接口。">
+    <Position X="6.823" Y="0.885" Height="0.927" Width="1.7" />
+  </Comment>
+  <Class Name="Hu.WinControler.Controler">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Controler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.ApplicationControler">
+    <Position X="0.75" Y="3.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>GAAAEAQAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppControler\ApplicationControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.WinControler">
+    <Position X="4.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAA=</HashCode>
+      <FileName>WinControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.AppFunction">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAoAAAECkAABAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>AppControler\AppFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.App">
+    <Position X="2.25" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAgAAIGAkAABAIAAAKAQAIAAAAAAACAAAA=</HashCode>
+      <FileName>AppControler\App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.DataAccess" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEgAAACQAQAQAAAAACIAAEAAgAACAACFQCgAAABBIUA=</HashCode>
+      <FileName>DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.VicCmd">
+    <Position X="8.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VicCmd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.Tools">
+    <Position X="10.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.WindowControler">
+    <Position X="7" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowControler\WindowControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.CommandLineControler" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAIAAAEAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>CommandLine\CommandLineControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.CommandLine">
+    <Position X="6.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAABAAAAAAgAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>CommandLine\CommandLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.CustomedFuncControler">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomedControler\CustomedFuncControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hu.WinControler.CustomedFunc">
+    <Position X="4.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECEAABAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CustomedControler\CustomedFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
